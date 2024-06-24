@@ -1,4 +1,2 @@
 selenium
 requests
-pytest
-pytest-html
